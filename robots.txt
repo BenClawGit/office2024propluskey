@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://office2024propluskey.com/sitemap.xml
